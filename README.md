@@ -1,11 +1,4 @@
 ## Hey 👋, I'm Vitalii Romanchuk  
-  
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vitalii-romanchuk/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-
 
 
 ### Glad to see you here!  
@@ -135,9 +128,10 @@ I offer 6 years of hands-on experience designing, developing, shipping, and main
 
 
 ## Github Stats  
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=indover&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="indover's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indover&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="indover's GitHub Stats" />
-
+</div>
 <br/>  
 
   
