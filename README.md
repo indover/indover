@@ -20,7 +20,7 @@ I offer 6 years of hands-on experience designing, developing, shipping, and main
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Looking for a web developer  
+- 🔭 Looking for a web developer job
   
 
 - 🌱 I’m currently learning Nest.js, React, React Native  
@@ -139,23 +139,9 @@ I offer 6 years of hands-on experience designing, developing, shipping, and main
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=indover&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="indover's GitHub Stats" />
-
-
-## Recent Blog Posts  
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indover&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="indover's GitHub Stats" />
 
 <br/>  
 
   
 
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
