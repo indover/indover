@@ -17,6 +17,31 @@ I offer 6 years of hands-on experience designing, developing, shipping, and main
 
 <br/>  
 
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 Looking for a web developer  
+  
+
+- 🌱 I’m currently learning Nest.js, React, React Native  
+  
+
+- ❓ Ask me about anything  ;)  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://gray-fluffy-catfish-109.mypinata.cloud/ipfs/QmVEE4LPTRVMh7PejcdXwvW9pe3hGKrr5ycAuvquSA3Ctq" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
