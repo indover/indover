@@ -1,8 +1,21 @@
+## Hey 👋, I'm Vitalii Romanchuk  
+  
 
+<a href="https://github.com/indover" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vitalii-romanchuk/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
+
+
+
+### Glad to see you here!  
+I offer 6 years of hands-on experience designing, developing, shipping, and maintaining large-scale products where availability, performance and security are paramount. I have established myself as a versatile software engineer who enthusiastically takes on new problems across the full-stack.  
   
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
