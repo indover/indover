@@ -22,7 +22,7 @@ I offer 6 years of hands-on experience designing, developing, shipping, and main
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://gray-fluffy-catfish-109.mypinata.cloud/ipfs/QmVEE4LPTRVMh7PejcdXwvW9pe3hGKrr5ycAuvquSA3Ctq" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif" align="center" style="width: 100%" />
 </div>  
 
 
