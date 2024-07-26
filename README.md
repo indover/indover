@@ -55,8 +55,8 @@ I offer 6 years of hands-on experience designing, developing, shipping, and main
 
 ### Backend  
 <div align="center">  
-<a href="https://symfony.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Symfony2.svg" alt="Symfony" height="150" /></a>
-<a href="https://openai.com" target="_blank"><img style="margin: 10px; color: white; background-color: black;" src="https://cdn.iconscout.com/icon/free/png-256/free-openai-7601069-6138535.png" alt="OpneAI" height="100" /></a>
+<a href="https://symfony.com" target="_blank"><img style="margin: 1px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Symfony2.svg" alt="Symfony" height="150" /></a>
+<a href="https://openai.com" target="_blank"><img style="margin: 10px; color: white; background-color: white;" src="https://cdn.iconscout.com/icon/free/png-256/free-openai-7601069-6138535.png" alt="OpneAI" height="100" /></a>
 <a href="https://www.yiiframework.com" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/yii_original_wordmark_logo_icon_146286.png" alt="Yii" height="50" /></a>
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
