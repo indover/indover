@@ -2,7 +2,7 @@
 
 
 ### Glad to see you here!  
-I offer 6 years of hands-on experience designing, developing, shipping, and maintaining large-scale products where availability, performance and security are paramount. I have established myself as a versatile software engineer who enthusiastically takes on new problems across the full-stack.  
+I offer 8 years of hands-on experience designing, developing, shipping, and maintaining large-scale products where availability, performance and security are paramount. I have established myself as a versatile software engineer who enthusiastically takes on new problems across the full-stack.  
   
 
 <br/>  
@@ -13,7 +13,7 @@ I offer 6 years of hands-on experience designing, developing, shipping, and main
 - 🔭 Looking for a web developer job
   
 
-- 🌱 I’m currently learning Nest.js, React, React Native  
+- 🌱 I’m currently learning GO, Perl
   
 
 - ❓ Ask me about anything  ;)  
