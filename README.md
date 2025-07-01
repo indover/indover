@@ -8,10 +8,7 @@ I offer 8 years of hands-on experience designing, developing, shipping, and main
 <br/>  
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 Looking for a web developer job
-  
+<table><tr><td valign="top" width="50%">  
 
 - 🌱 I’m currently learning GO, Perl
   
