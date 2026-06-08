@@ -52,12 +52,6 @@ My core is **PHP 8 / Symfony** at scale — event-driven microservices, high-loa
 **PaySwap** — a white-label crypto payment gateway (fiat ↔ crypto) for high-risk merchants.
 `Go` · `MySQL` · `Kafka` · `Redis` · a pluggable `FiatProvider` layer over multiple PSPs. Smart routing, hard idempotency, clean failover. Because crypto payments are exactly where fraud and AML get interesting.
 
-### 📊 Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=indover&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indover&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
 
 ### 🤝 Find me
 
